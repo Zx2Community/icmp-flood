@@ -132,7 +132,7 @@ An **ICMP flood** is a type of Denial-of-Service (DoS) attack where a target is 
 
 ### 🔗 Telegram Channel
 For updates, announcements, and research discussions:  
-**Telegram:** [https://t.me/your_channel_name](https://t.me/your_channel_name)
+**Telegram:** [https://t.me/Zx2_TMS](https://t.me/Zx2_TMS)
 
 ### 📬 Contact
 - **Purpose:** Research collaboration, security reporting
