@@ -201,8 +201,4 @@ This repository and its contents are provided for **EDUCATIONAL AND RESEARCH PUR
 - Provide test cases
 - Document security considerations
 
----
-
-**Last Updated:** [Date]  
-**Version:** 1.0.0-alpha  
-**License:** MIT (Educational Use Only)
+Joins https://t.me/Zx2_TMS
