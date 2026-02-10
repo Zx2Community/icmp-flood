@@ -1,13 +1,5 @@
 # 🔬 icmp-flood
 ## ICMP Flood / Spoof / Non-Spoof — Research & Defensive Project
-## 🚀 کامپایل و اجرا
-
-```bash
-📦 To compile and run do:
-
-⚙️  gcc ping.c -o ping
-▶️  sudo ./ping [-ev] [-i interval]
----
 
 ## 📋 Project Overview
 
