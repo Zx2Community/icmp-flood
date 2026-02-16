@@ -26,7 +26,20 @@ This project is designed to study, analyze, and understand ICMP traffic abuse pa
 ---
 
 
+## 📥 Installation
 
+### Prerequisites by Distribution
+
+| Distribution | Update Command | Installation Command |
+|-------------|----------------|---------------------|
+| **Ubuntu/Debian** | `sudo apt update` | `sudo apt install build-essential gcc` |
+| **Fedora** | `sudo dnf update` | `sudo dnf install gcc gcc-c++` |
+| **CentOS/RHEL** | `sudo yum update` | `sudo yum install gcc gcc-c++` |
+
+### 🛠️ Compilation
+
+
+**gcc icmpflood.c -o icmpflood**
 
 ## ❓ What is ICMP Flood?
 
@@ -78,7 +91,7 @@ An **ICMP flood** is a type of Denial-of-Service (DoS) attack where a target is 
 | **CPU** | 2 cores | 4+ cores |
 | **Environment** | User-space Linux | Dedicated test environment |
 | **Network** | Basic connectivity | Isolated lab network |
-**how to compile gcc icmpflood.c -o icmpflood**
+
 ---
 
 ## 📊 Attack Vectors (Research Focus)
