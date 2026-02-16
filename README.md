@@ -25,6 +25,9 @@ This project is designed to study, analyze, and understand ICMP traffic abuse pa
 
 ---
 
+
+
+
 ## ❓ What is ICMP Flood?
 
 An **ICMP flood** is a type of Denial-of-Service (DoS) attack where a target is overwhelmed with a large volume of ICMP messages (typically Echo Requests or Replies), leading to excessive consumption of:
@@ -75,7 +78,7 @@ An **ICMP flood** is a type of Denial-of-Service (DoS) attack where a target is 
 | **CPU** | 2 cores | 4+ cores |
 | **Environment** | User-space Linux | Dedicated test environment |
 | **Network** | Basic connectivity | Isolated lab network |
-
+**how to compile gcc icmpflood.c -o icmpflood**
 ---
 
 ## 📊 Attack Vectors (Research Focus)
